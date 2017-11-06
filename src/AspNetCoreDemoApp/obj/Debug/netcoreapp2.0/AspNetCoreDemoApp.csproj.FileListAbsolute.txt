@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\AspNet5DemoApp-master\src\AspNetCoreDemoApp\bin\Debug\netcoreapp2.0\AspNetCoreDemoApp.deps.json
+C:\Users\user\Desktop\AspNet5DemoApp-master\src\AspNetCoreDemoApp\bin\Debug\netcoreapp2.0\AspNetCoreDemoApp.runtimeconfig.json
+C:\Users\user\Desktop\AspNet5DemoApp-master\src\AspNetCoreDemoApp\bin\Debug\netcoreapp2.0\AspNetCoreDemoApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\AspNet5DemoApp-master\src\AspNetCoreDemoApp\bin\Debug\netcoreapp2.0\AspNetCoreDemoApp.dll
+C:\Users\user\Desktop\AspNet5DemoApp-master\src\AspNetCoreDemoApp\bin\Debug\netcoreapp2.0\AspNetCoreDemoApp.pdb
+C:\Users\user\Desktop\AspNet5DemoApp-master\src\AspNetCoreDemoApp\obj\Debug\netcoreapp2.0\AspNetCoreDemoApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\AspNet5DemoApp-master\src\AspNetCoreDemoApp\obj\Debug\netcoreapp2.0\AspNetCoreDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AspNet5DemoApp-master\src\AspNetCoreDemoApp\obj\Debug\netcoreapp2.0\AspNetCoreDemoApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AspNet5DemoApp-master\src\AspNetCoreDemoApp\obj\Debug\netcoreapp2.0\AspNetCoreDemoApp.AssemblyInfo.cs
+C:\Users\user\Desktop\AspNet5DemoApp-master\src\AspNetCoreDemoApp\obj\Debug\netcoreapp2.0\AspNetCoreDemoApp.dll
+C:\Users\user\Desktop\AspNet5DemoApp-master\src\AspNetCoreDemoApp\obj\Debug\netcoreapp2.0\AspNetCoreDemoApp.pdb
